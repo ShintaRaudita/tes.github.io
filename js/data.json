@@ -1,0 +1,41 @@
+{ 
+     "title": "Proposal Proyek 3", 
+     "description": " Syarat Pengajuan Proposal P3 ", 
+     "team1": [{ 
+         "name": "Salman Akbar Hasbullah", 
+         "npm": "1214073", 
+         "email":"salmanakbartafisa@gmail.com" 
+     }], 
+     "team2": [{ 
+         "name": "Shinta Raudita Octora Damayanti", 
+         "npm": "1214063", 
+         "email":"shintaraudita2110@gmail.com" 
+     }], 
+     "home":{ 
+         "title": "Proposal Proyek 3", 
+         "description": "Proposal Proyek 3" 
+     }, 
+     "article": { 
+         "judulProposal": "Implementasi Geographic Information System Untuk Pengembangan Web Informasi Destinasi Bandung ", 
+         "pengantarProposal": "Kami sangat antusias untuk mengajukan proposal ini untuk pembuatan sebuah website yang akan membantu pengguna dalam menganalisis sentimen online menggunakan model hybrid yang memadukan kecerdasan buatan (AI) dan pemrosesan bahasa alami (NLP).", 
+         "latarBelakang1":"Bandung, yang sering disebut Kota Kembang, merupakan salah satu destinasi wisata yang paling populer di Indonesia. Kota ini dikenal dengan keindahan alamnya, budaya yang kaya, kuliner lezat, dan berbagai atraksi wisata menarik. Selama bertahun-tahun, Bandung telah menjadi tujuan impian bagi wisatawan lokal dan internasional.", 
+         "latarBelakang2":"Namun, dengan pertumbuhan pesat industri pariwisata di Bandung, ada tantangan yang harus diatasi. Wisatawan sering kali menghadapi kesulitan dalam mencari informasi tentang tempat-tempat wisata, akomodasi, kuliner, transportasi, dan berbagai pengalaman lokal lainnya. Informasi tersebar di berbagai sumber online dan offline, membuat perencanaan perjalanan menjadi rumit.", 
+         "latarBelakang3":"Selain itu, pengembangan dan promosi destinasi wisata di Bandung juga dapat ditingkatkan. Adanya situasi pandemi global baru-baru ini telah memperlihatkan pentingnya adaptasi sektor pariwisata ke dalam teknologi digital untuk menjaga keberlanjutan industri.", 
+         "latarBelakang4":["Menganalisis sentimen media sosial.","respons pelanggan terhadap produk dan layanan.","Memahami pandangan dan perasaan masyarakat tentang isu-isu tertentu.","Membantu pengambilan keputusan berdasarkan data sentimen yang akurat."], 
+         "latarBelakang5":"Dengan demikian, proyek ini bertujuan untuk menghubungkan kesenjangan antara data tekstual yang luas dan pemahaman sentimen yang bermakna, memberikan alat yang kuat bagi individu dan organisasi untuk mengambil tindakan berdasarkan wawasan yang lebih baik tentang opini dan perasaan yang tersebar di dunia digital.", 
+         "deskripsiWebsite":["<b>Beranda</b>: Tampilan utama dengan grafik dan ringkasan tentang tren sentimen terkini.","<b>Analisis Sentimen</b>: Pengguna dapat memasukkan teks atau URL untuk menganalisis sentimennya, dan website akan memberikan laporan dengan hasil prediksi sentimen.","<b>Berita Sentimen</b>: Menampilkan berita terkini yang dianalisis untuk sentimen positif atau negatif.","<b>Galeri Grafik</b>: Grafik dan visualisasi data untuk menggambarkan tren sentimen dari waktu ke waktu.","<b>Blog</b>: Artikel-artikel informatif tentang analisis sentimen dan perkembangan terbaru dalam AI dan NLP.","<b>Forum Diskusi</b>: Forum bagi pengguna untuk berdiskusi tentang analisis sentimen dan berbagi pengalaman."], 
+         "DesaindanFungsionalitas":"Website ini akan memiliki desain modern yang menarik dan responsif. Fungsionalitas utama termasuk:", 
+         "DesaindanFungsionalitasList":["Model Hybrid AI/NLP untuk analisis sentimen.","Integrasi media sosial untuk pemantauan tren sentimen.","Visualisasi data yang interaktif.","Komentar dan sistem peringkat untuk artikel dan diskusi."], 
+         "Pemasaran":"Kami akan menggunakan strategi pemasaran digital yang cerdas, kolaborasi dengan ahli AI/NLP, dan promosi melalui platform media sosial. Kami juga akan menjalin kemitraan dengan bisnis yang dapat memanfaatkan layanan analisis sentimen kami.", 
+         "Pemasaran2":"Pemasaran yang efektif akan memainkan peran kunci dalam memastikan kesuksesan proyek 'Web Prediksi Sentimen menggunakan Model Hybrid.' Kami akan menerapkan strategi pemasaran berdasarkan pendekatan digital yang cerdas, kemitraan yang relevan, serta pemanfaatan media sosial untuk mencapai target audiens kami.", 
+         "Pemasaran3": "pemasaran yang cerdas akan membantu kami menjangkau audiens yang relevan, membangun kepercayaan, dan memperkuat posisi kami sebagai pemimpin dalam analisis sentimen berbasis model hybrid. Kami akan terus memantau dan mengevaluasi strategi ini untuk mengoptimalkan hasilnya seiring waktu.", 
+         "waktuPelaksanaan": "Kami memproyeksikan waktu pelaksanaan selama 3 bulan, termasuk pengembangan, pengujian website.", 
+         "kesimpulan": "Kami yakin bahwa website 'Prediksi Sentimen menggunakan Model Hybrid' akan menjadi sumber daya yang berharga bagi individu, bisnis, dan masyarakat umum dalam memahami sentimen online. Kami berharap dapat bekerja sama dalam mewujudkan proyek ini.", 
+         "kesimpulan2": "Kami berterima kasih kepada semua yang telah mendukung dan berpartisipasi dalam proyek ini. Harapan kami adalah bahwa 'Web Prediksi Sentimen menggunakan Model Hybrid' akan menjadi alat yang bermanfaat dan inovatif dalam memahami dunia online yang terus berubah dan menghadirkan nilai tambahan yang signifikan bagi pengguna kami. Kami menantikan masa depan yang cerah dan terus berinovasi untuk mencapai tujuan ini.", 
+         "kesimpulan3": "Terima kasih atas perhatian Anda. Kami menunggu tanggapan positif dari Anda." 
+     }, 
+     "video": [{ 
+         "title": "Proposal Proyek 3", 
+         "description": "Proposal Proyek 3" 
+     }] 
+ }

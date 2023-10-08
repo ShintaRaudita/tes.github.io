@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+  </head>
+  <body>
+    <!-- Navbar Coy-->
+<div class="container-md">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand" href="" style="font-family: 'Roboto', sans-serif; font-size: 24px; font-weight: bold;">Project 3</a>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="../index.html">
+                        <img src="../logo/home.png" alt="Logo Proposal" width="30" height="30" style="margin-right: 10px;"> 
+                        <span style="font-family: 'Roboto', sans-serif;">Home</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" a href="../pages/proposal.html">
+                        <img src="../logo/logo.png" alt="Logo Proposal" width="30" height="30" style="margin-right: 10px;"> 
+                        <span style="font-family: 'Roboto', sans-serif;">Proposal</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" a href="Tim.html">
+                        <img src="../logo/tim.png" alt="Logo Proposal" width="30" height="30" style="margin-right: 10px;"> 
+                        <span style="font-family: 'Roboto', sans-serif;">Tim</span>
+                    </a>
+                </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+</div>
+
+<!-- konten -->
+<div class="container container-sm">
+  <form>
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your email..">
+    </div>
+
+    <!-- <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select> -->
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <!-- <input type="submit" value="Submit"> -->
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+  </form>
+</div>
+
+<!-- footer -->
+<footer class="footer-area section-gap text-white text-justify">
+  <div class="container bg-dark">
+    <div class="row">
+    <div class="row footer-bottom d-flex justify-content-between align-items-center">
+      <p class="col-lg-8 col-sm-12 footer-text m-0">
+      Copyright &copy;<script>document.write(new Date().getFullYear());</script> by Salman and Shinta</p>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+<script type="module" src="../js/app.js"></script>
+</body>
+</html>
